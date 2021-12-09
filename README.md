@@ -1,4 +1,6 @@
-# advcalculator
+# Adv Calculator
+
+- See [LICENSE](/LICENSE)
 
 A new Flutter project.
 

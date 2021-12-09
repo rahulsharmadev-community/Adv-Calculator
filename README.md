@@ -1,6 +1,7 @@
 # Adv Calculator
-
 - See [LICENSE](/LICENSE)
+
+![](/screenshots/shot_1.png)
 
 A new Flutter project.
 
